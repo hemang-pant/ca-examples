@@ -1,0 +1,3 @@
+[submodule "forks/aave-ca"]
+	path = forks/aave-ca
+	url = https://github.com/arcana-network/aave-ca/
