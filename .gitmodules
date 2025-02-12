@@ -1,3 +1,12 @@
 [submodule "forks/aave-ca"]
 	path = forks/aave-ca
 	url = https://github.com/arcana-network/aave-ca/
+[submodule "examples/ca-sdk-example"]
+	path = examples/ca-sdk-example
+	url = https://github.com/arcana-network/ca-sdk-example
+[submodule "examples/ca-wagmi-example"]
+	path = examples/ca-wagmi-example
+	url = https://github.com/arcana-network/ca-wagmi-example.git
+[submodule "examples/gmullet-minter"]
+	path = examples/gmullet-minter
+	url = https://github.com/myrnf/gmullet-minter.git
